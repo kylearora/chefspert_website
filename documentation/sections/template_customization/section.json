@@ -1,0 +1,58 @@
+{
+	"id":"template_customization",
+	"translations":
+	{
+		"en":"Template customization",
+		"ru":"Кастомизация шаблона"
+	},
+  "articles": [
+	{
+	  "id": "change-logo",
+	  "translations":
+	  {
+		"en": "Change logo",
+		"ru": "Замена логотипа в шаблоне"
+	  }
+	},
+    {
+      "id": "color-scheme-and-layout",
+      "translations":
+      {
+        "en": "Color scheme and layout",
+        "ru": "Настройка цветовой схемы и лейаута"
+      }
+    },
+	{
+	  "id": "navigation-settings",
+	  "translations":
+	  {
+		"en": "Navigation settings",
+		"ru": "Настройка навигации в шаблоне"
+	  }
+	},
+	{
+	  "id": "mailform-settings",
+	  "translations":
+	  {
+		"en": "Mailform Settings",
+		"ru": "Настройка Почтовой формы"
+	  }
+	},
+	{
+	  "id": "animation-settings",
+	  "translations":
+	  {
+		"en": "Animation Settings",
+		"ru": "Настройка анимации элементов шаблона при скролле"
+	  }
+	},
+	{
+	  "id": "slider-settings",
+	  "translations":
+	  {
+		"en": "Slider Settings",
+		"ru": "Настройка слайдера"
+	  }
+	}
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "id": "extensions",
+  "translations": {
+    "en": "Extensions",
+    "ru": "Расширения"
+  },
+  "articles": [
+    {
+      "id": "rd-mailform",
+      "translations": {
+        "en": "RD Mailform",
+        "ru": "RD Mailform"
+      }
+    },
+    {
+      "id": "mailchimp",
+      "translations": {
+        "en": "MailChimp",
+        "ru": "MailChimp"
+      }
+    },
+    {
+      "id": "campaign-monitor",
+      "translations": {
+        "en": "Campaign Monitor",
+        "ru": "Campaign Monitor"
+      }
+    },
+    {
+      "id": "rd-navbar",
+      "translations": {
+        "en": "RD Navbar",
+        "ru": "RD Navbar"
+      }
+    },
+    {
+      "id": "rd-bg-video",
+      "translations": {
+        "en": "RD Background Video",
+        "ru": "RD Background Video"
+      }
+    },
+    {
+      "id": "countdown",
+      "translations": {
+        "en": "Countdown.Timer",
+        "ru": "Countdown.Таймер"
+      }
+    },
+    {
+      "id": "swiper",
+      "translations": {
+        "en": "Swiper Slider",
+        "ru": "Swiper Slider"
+      }
+    },
+    {
+      "id": "lightGallery",
+      "translations": {
+        "en": "lightGallery",
+        "ru": "lightGallery"
+      }
+    },
+    {
+      "id": "customScroll",
+      "translations": {
+        "en": "Custom-scrollbar",
+        "ru": "Custom-scrollbar"
+      }
+    }
+  ]
+}
+
+
